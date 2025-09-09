@@ -36,6 +36,8 @@ function resetForm() {
   alert("The form has been reset.");
 }
 
+
+
 ## Conclusion
 
 The Laptop Request Catalog Item significantly improves the employee experience by providing a faster, more intuitive way to request laptops through ServiceNow. With dynamic field behavior, a reset functionality, and easy deployment via update sets, this solution reduces manual effort, eliminates common errors, and supports scalable IT service management. It is a practical step toward automating hardware provisioning within your organization.
